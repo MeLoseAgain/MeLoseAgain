@@ -7,5 +7,9 @@
 ![MeLoseAgain's github stats](https://github-readme-streak-stats.herokuapp.com/?user=MeLoseAgain&theme=monokai-metallian&hide_border=true)
 
 ### ⚒ My Skill ⚒
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vscode,mysql,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,golang,lua&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,prisma,bun,linux&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap,dart,flutter,golang,kotlin,docker,js,ts,vue,nuxt,nodejs,mysql,mongodb,prisma,bun,figma,laravel,linux,lua&perline=8)](https://skillicons.dev)
