@@ -3,8 +3,7 @@
 
 <br />
 
-![MeLoseAgain's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=MeLoseAgain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-![MeLoseAgain's github stats](https://github-readme-streak-stats.herokuapp.com/?user=MeLoseAgain&theme=monokai-metallian&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MeLoseAgain&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### ⚒ My Skill ⚒
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma&perline=5)](https://skillicons.dev)
